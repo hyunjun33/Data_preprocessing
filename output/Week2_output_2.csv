@@ -1,0 +1,26 @@
+,Brand,Store,Total Order Value,Total Quantity Sold,Avg Days to Ship
+0,BROM,Birmingham,349759,155,12 days
+1,BROM,Leeds,389116,150,10 days
+2,BROM,London,324635,133,11 days
+3,BROM,Manchester,339832,137,11 days
+4,BROM,York,361852,145,10 days
+5,GIA,Birmingham,581733,269,10 days
+6,GIA,Leeds,460151,203,12 days
+7,GIA,London,548821,228,11 days
+8,GIA,Manchester,466613,204,12 days
+9,GIA,York,593793,251,11 days
+10,KONA,Birmingham,435694,184,11 days
+11,KONA,Leeds,498341,208,10 days
+12,KONA,London,524879,216,11 days
+13,KONA,Manchester,370481,148,11 days
+14,KONA,York,430667,171,12 days
+15,ORRO,Birmingham,216169,86,12 days
+16,ORRO,Leeds,126334,55,12 days
+17,ORRO,London,151734,61,10 days
+18,ORRO,Manchester,118800,43,9 days
+19,ORRO,York,186457,77,9 days
+20,SPEC,Birmingham,1488013,651,11 days
+21,SPEC,Leeds,1431894,570,11 days
+22,SPEC,London,1358343,578,12 days
+23,SPEC,Manchester,1451471,614,12 days
+24,SPEC,York,1105777,458,11 days
