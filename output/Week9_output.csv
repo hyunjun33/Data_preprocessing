@@ -1,0 +1,145 @@
+,Rank,Area,Product Name,Revenue,% of Total - Product
+0,3,Aberdeen,Hand Sanitiser,353,9.66
+1,1,Aberdeen,"Soap, Bar",2507,68.63
+2,2,Aberdeen,"Soap, Liquid",793,21.71
+3,2,Arbroath,Hand Sanitiser,847,21.4
+4,3,Arbroath,"Soap, Bar",687,17.35
+5,1,Arbroath,"Soap, Liquid",2424,61.23
+6,3,Ardgay,Hand Sanitiser,540,14.43
+7,2,Ardgay,"Soap, Bar",1370,36.6
+8,1,Ardgay,"Soap, Liquid",1833,48.97
+9,1,Ashford (Kent),Hand Sanitiser,1026,45.46
+10,3,Ashford (Kent),"Soap, Bar",510,22.6
+11,2,Ashford (Kent),"Soap, Liquid",722,31.99
+12,3,Aylesbury,Hand Sanitiser,815,18.76
+13,2,Aylesbury,"Soap, Bar",883,20.33
+14,1,Aylesbury,"Soap, Liquid",2646,60.92
+15,3,Castle Douglas,Hand Sanitiser,412,12.81
+16,1,Castle Douglas,"Soap, Bar",1465,45.55
+17,2,Castle Douglas,"Soap, Liquid",1339,41.63
+18,3,Cemmaes Road,Hand Sanitiser,1028,25.54
+19,2,Cemmaes Road,"Soap, Bar",1137,28.25
+20,1,Cemmaes Road,"Soap, Liquid",1859,46.19
+21,3,Colwyn Bay,Hand Sanitiser,401,12.2
+22,2,Colwyn Bay,"Soap, Bar",441,13.42
+23,1,Colwyn Bay,"Soap, Liquid",2444,74.37
+24,3,Darlington,Hand Sanitiser,469,17.23
+25,1,Darlington,"Soap, Bar",1661,61.03
+26,2,Darlington,"Soap, Liquid",592,21.75
+27,3,Dorchester,Hand Sanitiser,250,4.49
+28,2,Dorchester,"Soap, Bar",1815,32.59
+29,1,Dorchester,"Soap, Liquid",3504,62.92
+30,3,Edinburgh,Hand Sanitiser,712,23.34
+31,1,Edinburgh,"Soap, Bar",1247,40.87
+32,2,Edinburgh,"Soap, Liquid",1092,35.79
+33,2,Ellon,Hand Sanitiser,909,33.68
+34,1,Ellon,"Soap, Bar",1192,44.16
+35,3,Ellon,"Soap, Liquid",598,22.15
+36,2,Enniskillen,Hand Sanitiser,996,31.79
+37,3,Enniskillen,"Soap, Bar",928,29.62
+38,1,Enniskillen,"Soap, Liquid",1209,38.58
+39,2,Great Yarmouth,Hand Sanitiser,1152,34.23
+40,3,Great Yarmouth,"Soap, Bar",1024,30.43
+41,1,Great Yarmouth,"Soap, Liquid",1190,35.36
+42,3,Guernsey,Hand Sanitiser,263,6.83
+43,2,Guernsey,"Soap, Bar",1702,44.21
+44,1,Guernsey,"Soap, Liquid",1885,48.96
+45,2,Haverfordwest,Hand Sanitiser,721,26.77
+46,3,Haverfordwest,"Soap, Bar",191,7.09
+47,1,Haverfordwest,"Soap, Liquid",1781,66.12
+48,2,Helmsley,Hand Sanitiser,774,24.48
+49,3,Helmsley,"Soap, Bar",587,18.57
+50,1,Helmsley,"Soap, Liquid",1800,56.94
+51,2,Holbeach,Hand Sanitiser,1308,38.28
+52,1,Holbeach,"Soap, Bar",1797,52.59
+53,3,Holbeach,"Soap, Liquid",312,9.13
+54,3,Holsworthy,Hand Sanitiser,330,7.89
+55,2,Holsworthy,"Soap, Bar",1743,41.65
+56,1,Holsworthy,"Soap, Liquid",2112,50.47
+57,2,Huddersfield,Hand Sanitiser,872,44.42
+58,1,Huddersfield,"Soap, Bar",928,47.27
+59,3,Huddersfield,"Soap, Liquid",162,8.25
+60,3,Insch,Hand Sanitiser,273,6.63
+61,2,Insch,"Soap, Bar",851,20.66
+62,1,Insch,"Soap, Liquid",2996,72.72
+63,2,Inveraray,Hand Sanitiser,440,15.4
+64,3,Inveraray,"Soap, Bar",410,14.35
+65,1,Inveraray,"Soap, Liquid",2008,70.27
+66,3,Inverurie,Hand Sanitiser,277,8.12
+67,1,Inverurie,"Soap, Bar",1774,52.02
+68,2,Inverurie,"Soap, Liquid",1358,39.82
+69,3,Kettering,Hand Sanitiser,579,13.47
+70,2,Kettering,"Soap, Bar",878,20.43
+71,1,Kettering,"Soap, Liquid",2840,66.08
+72,3,Kings Lynn,Hand Sanitiser,664,20.6
+73,2,Kings Lynn,"Soap, Bar",883,27.39
+74,1,Kings Lynn,"Soap, Liquid",1677,52.02
+75,3,Knighton,Hand Sanitiser,859,20.1
+76,2,Knighton,"Soap, Bar",1706,39.91
+77,1,Knighton,"Soap, Liquid",1710,40.0
+78,3,Lowestoft,Hand Sanitiser,444,8.71
+79,2,Lowestoft,"Soap, Bar",1897,37.21
+80,1,Lowestoft,"Soap, Liquid",2756,54.06
+81,3,Lydney,Hand Sanitiser,181,4.48
+82,2,Lydney,"Soap, Bar",1643,40.67
+83,1,Lydney,"Soap, Liquid",2216,54.85
+84,3,Maidstone,Hand Sanitiser,657,19.45
+85,2,Maidstone,"Soap, Bar",887,26.26
+86,1,Maidstone,"Soap, Liquid",1833,54.27
+87,3,Manchester,Hand Sanitiser,621,14.17
+88,1,Manchester,"Soap, Bar",2084,47.56
+89,2,Manchester,"Soap, Liquid",1677,38.27
+90,3,Market Weighton,Hand Sanitiser,273,7.02
+91,1,Market Weighton,"Soap, Bar",2480,63.76
+92,2,Market Weighton,"Soap, Liquid",1138,29.26
+93,2,Matlock,Hand Sanitiser,698,22.78
+94,1,Matlock,"Soap, Bar",1715,55.98
+95,3,Matlock,"Soap, Liquid",650,21.22
+96,3,Merthyr Tydfil,Hand Sanitiser,520,12.96
+97,2,Merthyr Tydfil,"Soap, Bar",833,20.77
+98,1,Merthyr Tydfil,"Soap, Liquid",2658,66.27
+99,2,Millom,Hand Sanitiser,827,26.0
+100,3,Millom,"Soap, Bar",514,16.16
+101,1,Millom,"Soap, Liquid",1840,57.86
+102,2,Newton Stewart,Hand Sanitiser,1134,42.06
+103,1,Newton Stewart,"Soap, Bar",1556,57.71
+104,3,Newton Stewart,"Soap, Liquid",6,0.22
+105,3,Rugby,Hand Sanitiser,497,12.89
+106,2,Rugby,"Soap, Bar",1397,36.22
+107,1,Rugby,"Soap, Liquid",1963,50.9
+108,3,Sanquhar,Hand Sanitiser,346,7.87
+109,2,Sanquhar,"Soap, Bar",723,16.44
+110,1,Sanquhar,"Soap, Liquid",3328,75.68
+111,2,St Andrews,Hand Sanitiser,882,24.46
+112,3,St Andrews,"Soap, Bar",801,22.21
+113,1,St Andrews,"Soap, Liquid",1924,53.35
+114,3,St Austell,Hand Sanitiser,474,16.19
+115,2,St Austell,"Soap, Bar",660,22.54
+116,1,St Austell,"Soap, Liquid",1794,61.28
+117,3,St Helens,Hand Sanitiser,589,14.89
+118,2,St Helens,"Soap, Bar",1092,27.61
+119,1,St Helens,"Soap, Liquid",2275,57.51
+120,3,Sunderland,Hand Sanitiser,348,7.93
+121,2,Sunderland,"Soap, Bar",1802,41.09
+122,1,Sunderland,"Soap, Liquid",2236,50.98
+123,3,Thornhill,Hand Sanitiser,721,17.55
+124,2,Thornhill,"Soap, Bar",805,19.6
+125,1,Thornhill,"Soap, Liquid",2580,62.82
+126,3,Thurso,Hand Sanitiser,373,10.99
+127,2,Thurso,"Soap, Bar",1474,43.42
+128,1,Thurso,"Soap, Liquid",1547,45.57
+129,3,Tongue,Hand Sanitiser,822,20.71
+130,2,Tongue,"Soap, Bar",924,23.28
+131,1,Tongue,"Soap, Liquid",2223,56.01
+132,3,Ullapool,Hand Sanitiser,465,15.42
+133,2,Ullapool,"Soap, Bar",905,30.02
+134,1,Ullapool,"Soap, Liquid",1644,54.53
+135,3,Wetherby,Hand Sanitiser,1003,27.44
+136,2,Wetherby,"Soap, Bar",1183,32.37
+137,1,Wetherby,"Soap, Liquid",1469,40.19
+138,3,Worthing,Hand Sanitiser,334,9.58
+139,1,Worthing,"Soap, Bar",2020,57.95
+140,2,Worthing,"Soap, Liquid",1131,32.45
+141,3,Wrexham,Hand Sanitiser,545,16.33
+142,1,Wrexham,"Soap, Bar",2129,63.79
+143,2,Wrexham,"Soap, Liquid",663,19.87
