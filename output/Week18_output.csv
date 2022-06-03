@@ -1,19 +1,19 @@
-,Week,Project,Sub-Project,Task,Name,Days Needed,Detail
-5,Week 17,New Loyalty Scheme,Marketing,Scope,Tom,, Scope completed. tom. 
-6,Week 18,New Loyalty Scheme,Marketing,Deliver,Tom,8, Similar to the operations team. 8 days effort needed. Long process has begun. tom. 
-9,Week 17,New Loyalty Scheme,Marketing,Build,Tom,, Marketing Build complete. tom. 
-0,Week 16,New Loyalty Scheme,Operations,Scope,Jenny,, Delivered scope for the project. Resourcing fine. jen.
-1,Week 17,New Loyalty Scheme,Operations,Build,Jenny,, Build kickoff but long project. jen. 
-2,Week 18,New Loyalty Scheme,Operations,Deliver,Jenny,10, Long delivery process has begun at least 10 days. jen. 
-3,Week 19,New Trolley Inventory,Marketing,Build,Tom,5, Project build commences. Will be completed in 5 days. tom. 
-4,Week 20,New Trolley Inventory,Marketing,Deliver,Tom,8, Delivery next week around 8 days. tom. 
-13,Week 18,New Trolley Inventory,Marketing,Scope,Tom,, Need to balance resourcing carefully with two projects ongoing. tom. 
-7,Week 19,New Trolley Inventory,Operations,Build,Jenny,2, Longer build than the easy marketing project and some sick leave. Give me an extra 2 days please. jen. 
-8,Week 20,New Trolley Inventory,Operations,Deliver,Jenny,8," Delivery also next week. Same as tom, I need an estimated 8 days. jen."
-10,Week 18,New Trolley Inventory,Operations,Scope,Jenny,4, New project scope delivered. Tough to juggle resourcing. I really need someone for 4 days of extra time. jen. 
-11,Week 19,Spring Sale,Marketing,Deliver,Carl,, Deliver delayed to next week as I'm off sick. car. 
-12,Week 17,Spring Sale,Marketing,Scope,Carl,3, Completed but late in the week due (3 days needed) to being off sick. car. 
-16,Week 18,Spring Sale,Marketing,Build,Carl,5, Build is longer than expected with delay due to sick leave so require an extra 5 days. car. 
-14,Week 17,Spring Sale,Operations,Scope,Jonathan,, Scope complete but weekend delivery. jon.
-15,Week 18,Spring Sale,Operations,Build,Jonathan,, Complete and awaiting marketing delivery. jon. 
-17,Week 18,Spring Sale,Operations,Deliver,Jonathan,, Delivery process started early. jon.
+,Project,Sub-project,Task,Owner,Scheduled Date,Days Difference to Schedule,Completed Date,Scope to Build Time,Build to Delivery Time,Completed Weekday
+0,New Loyalty Scheme,Marketing,Scope,Tom,2021-04-19,0 days,2021-04-19,4 days,12 days,Monday
+1,New Loyalty Scheme,Marketing,Build,Tom,2021-04-21,2 days,2021-04-23,4 days,12 days,Friday
+2,New Loyalty Scheme,Marketing,Deliver,Tom,2021-04-30,5 days,2021-05-05,4 days,12 days,Wednesday
+3,New Loyalty Scheme,Operations,Scope,Jenny,2021-04-15,0 days,2021-04-15,11 days,6 days,Thursday
+4,New Loyalty Scheme,Operations,Build,Jenny,2021-04-23,3 days,2021-04-26,11 days,6 days,Monday
+5,New Loyalty Scheme,Operations,Deliver,Jenny,2021-04-28,4 days,2021-05-02,11 days,6 days,Sunday
+6,New Trolley Inventory,Marketing,Scope,Tom,2021-05-02,0 days,2021-05-02,5 days,10 days,Sunday
+7,New Trolley Inventory,Marketing,Build,Tom,2021-05-04,3 days,2021-05-07,5 days,10 days,Friday
+8,New Trolley Inventory,Marketing,Deliver,Tom,2021-05-12,5 days,2021-05-17,5 days,10 days,Monday
+9,New Trolley Inventory,Operations,Scope,Jenny,2021-04-30,0 days,2021-04-30,7 days,10 days,Friday
+10,New Trolley Inventory,Operations,Build,Jenny,2021-05-05,2 days,2021-05-07,7 days,10 days,Friday
+11,New Trolley Inventory,Operations,Deliver,Jenny,2021-05-11,6 days,2021-05-17,7 days,10 days,Monday
+12,Spring Sale,Marketing,Scope,Carl,2021-04-22,0 days,2021-04-22,13 days,2 days,Thursday
+13,Spring Sale,Marketing,Build,Carl,2021-04-29,6 days,2021-05-05,13 days,2 days,Wednesday
+14,Spring Sale,Marketing,Deliver,Carl,2021-05-04,3 days,2021-05-07,13 days,2 days,Friday
+15,Spring Sale,Operations,Scope,Jonathan,2021-04-25,0 days,2021-04-25,5 days,6 days,Sunday
+16,Spring Sale,Operations,Build,Jonathan,2021-04-28,2 days,2021-04-30,5 days,6 days,Friday
+17,Spring Sale,Operations,Deliver,Jonathan,2021-05-02,4 days,2021-05-06,5 days,6 days,Thursday
