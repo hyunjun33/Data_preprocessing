@@ -1,0 +1,51 @@
+,first_name,last_name,email,Product,Price,Destination,Date,New Trolley Inventory?,Avg Price per Product,Variance,Rank
+0,Kizzie,Bruggeman,kbruggemanq@thetimes.co.uk,Foil Wrap,0.91,New York,2021-01-09,False,42.611666666666665,41.70166666666667,1
+1,Leslie,Streight,lstreight22@ed.gov,Hot Choc Vending,1.08,Perth,2021-01-19,False,29.518,28.438000000000002,3
+2,Ingemar,Burgiss,iburgissbp@howstuffworks.com,Black Currants,2.91,Paris,2021-01-07,False,40.9025,37.99250000000001,1
+3,Catherina,Eymer,ceymere6@facebook.com,Eggplant Italian,3.73,Paris,2021-01-23,False,35.29833333333334,31.56833333333334,2
+4,Fairfax,Raikes,fraikesox@twitpic.com,Rabbit ,1.15,Edinburgh,2021-01-22,False,26.52956521739131,25.37956521739131,3
+5,Batsheva,Healy,bhealyj@51.la,Pears ,3.29,Edinburgh,2021-02-19,False,26.84222222222222,23.55222222222222,5
+6,Matthus,Phinnessy,mphinnessy38@weather.com,Tarragon ,3.46,Perth,2021-02-14,False,32.76181818181818,29.301818181818177,1
+7,Glyn,Kervin,gkervin4i@infoseek.co.jp,Sausage ,2.39,Edinburgh,2021-02-20,False,29.840526315789475,27.450526315789475,2
+8,Gloriana,Fullwood,gfullwoodaz@ameblo.jp,Dikon,1.48,London,2021-02-02,False,29.75,28.27,3
+9,Erin,Perle,eperled7@ucla.edu,Bread Roll Foccacia,4.24,New York,2021-02-15,False,37.06,32.82,2
+10,Sallie,Wharton,swhartoni1@si.edu,Venison ,0.08,Perth,2021-02-12,False,27.567272727272726,27.487272727272728,4
+11,Hymie,McAllen,hmcallenam@reddit.com,Salt ,2.03,Perth,2021-03-18,False,28.65703703703704,26.627037037037038,5
+12,Eleanor,MacAulay,emacaulayfo@google.es,Sun ,0.32,Paris,2021-03-28,False,28.4075,28.0875,5
+13,Benni,Caff,bcaffgy@auda.org.au,Honey ,0.16,New York,2021-03-02,False,30.639090909090907,30.479090909090907,3
+14,Gerek,Flanner,gflanner1a@usgs.gov,Capon ,0.24,Edinburgh,2021-04-01,False,32.90933333333333,32.66933333333333,1
+15,Morgana,Hurrell,mhurrell50@photobucket.com,Honey ,1.51,London,2021-04-16,False,30.639090909090907,29.129090909090905,2
+16,Salomone,Bowhay,sbowhay5p@constantcontact.com,Coriander ,2.76,London,2021-04-09,False,30.627777777777776,27.867777777777775,5
+17,Alexine,Sandbrook,asandbrookld@google.es,Artichokes ,0.65,London,2021-04-16,False,28.604285714285712,27.954285714285714,4
+18,Otto,O'Nolan,oonolanod@unesco.org,Olive ,1.05,New York,2021-04-01,False,28.093333333333334,27.043333333333333,5
+19,Valencia,Regenhardt,vregenhardtpf@mtv.com,Assorted Desserts,3.1,Paris,2021-04-12,False,34.65375,31.55375,3
+20,Andreas,Berthot,aberthotqd@latimes.com,Ostrich ,0.02,New York,2021-04-10,False,29.234545454545454,29.214545454545455,4
+21,Lalo,Creek,lcreekf2@cafepress.com,Food Colouring ,1.07,Edinburgh,2021-05-02,False,26.03333333333333,24.96333333333333,4
+22,Othello,Newall,onewallhj@theguardian.com,Spaghetti Squash,6.17,Paris,2021-05-29,False,35.864,29.693999999999996,4
+23,Carleton,Worsam,cworsamic@linkedin.com,Breakfast Quesadillas,0.85,Perth,2021-05-09,False,29.334000000000003,28.484,2
+24,Enrico,Lanchberry,elanchberryje@businessweek.com,Magnotta ,0.63,London,2021-05-15,False,32.029999999999994,31.399999999999995,1
+25,Dione,Morales,dmorales5m@posterous.com,Cake ,58.33,London,2021-07-15,True,19.9738,38.3562,2
+26,Gualterio,Barks,gbarksbd@angelfire.com,Grapes ,58.27,Perth,2021-07-14,True,20.59642857142857,37.673571428571435,2
+27,Damiano,Mouan,dmouanq7@woothemes.com,Island Oasis ,59.14,New York,2021-07-12,True,21.798448275862068,37.34155172413793,4
+28,Martyn,Dace,mdace2l@soup.io,Beer ,57.19,Edinburgh,2021-08-03,True,22.541194029850747,34.648805970149255,5
+29,Janeva,Loxston,jloxston4s@hubpages.com,Macaroons ,54.81,London,2021-08-26,True,16.748571428571427,38.06142857142858,4
+30,Magnum,Ainslee,mainsleeaz@springer.com,Spinach ,59.64,London,2021-08-17,True,21.537272727272725,38.10272727272728,3
+31,Veronika,Fitzsymonds,vfitzsymondsr0@hud.gov,Cheese ,59.29,Perth,2021-08-23,True,23.361520270270272,35.92847972972973,5
+32,Gunther,Stowell,gstowellj@histats.com,Wine ,59.31,Edinburgh,2021-09-18,True,23.845260115606933,35.46473988439307,3
+33,Vite,Airdrie,vairdrie4y@netvibes.com,Tart Shells ,59.86,Paris,2021-09-26,True,23.517241379310345,36.34275862068965,4
+34,Kylynn,Goudge,kgoudge53@howstuffworks.com,Milk ,59.47,Edinburgh,2021-09-30,True,21.81483870967742,37.65516129032258,1
+35,Corry,Dalli,cdalli5z@gizmodo.com,Longos ,59.75,Paris,2021-09-25,True,22.67468085106383,37.075319148936174,2
+36,Othello,Dudson,odudson86@addthis.com,Pastry ,58.94,Paris,2021-09-20,True,22.000113636363636,36.93988636363636,3
+37,Willow,Chapelle,wchapelle9q@deviantart.com,Pastry ,57.95,Perth,2021-09-03,True,22.000113636363636,35.94988636363637,4
+38,Joe,Clericoates,jclericoatesc9@gov.uk,Oranges ,54.18,New York,2021-09-27,True,15.719999999999999,38.46,2
+39,Zarah,Tyce,ztycei2@senate.gov,Tea ,59.83,New York,2021-09-17,True,21.98089552238806,37.84910447761194,3
+40,Putnam,Fontin,pfontinjb@salon.com,Beef Ground Medium,58.26,London,2021-09-10,True,17.967999999999996,40.292,1
+41,Lyn,Rubinowitz,lrubinowitzjz@usa.gov,Wine ,58.65,Edinburgh,2021-09-09,True,23.845260115606933,34.804739884393065,4
+42,Marleah,Phillippo,mphillippom2@creativecommons.org,Swiss Chard ,58.78,Paris,2021-09-09,True,19.246666666666666,39.53333333333333,1
+43,Izaak,Pasmore,ipasmore1w@ehow.com,Chicken Thigh ,59.31,New York,2021-10-25,True,16.5025,42.807500000000005,1
+44,Luther,Maiklem,lmaiklem6t@nature.com,Chevril,59.42,Perth,2021-10-18,True,21.093333333333334,38.32666666666667,1
+45,Cornelius,Horney,chorneyds@seattletimes.com,Puree ,54.58,Edinburgh,2021-10-23,True,18.227857142857143,36.35214285714285,2
+46,Yvor,Smerdon,ysmerdonhr@imgur.com,Pastry ,59.34,New York,2021-10-10,True,22.000113636363636,37.33988636363637,5
+47,Millisent,Patria,mpatriahu@howstuffworks.com,Appetizer ,58.17,Paris,2021-10-06,True,21.844444444444445,36.32555555555555,5
+48,Gray,Battrum,gbattrumie@java.com,Alize Gold Passion,55.98,London,2021-10-05,True,18.871999999999996,37.108000000000004,5
+49,Jacquenetta,Norres,jnorresr6@geocities.jp,Bread ,59.95,Perth,2021-10-03,True,23.12954716981132,36.820452830188685,3
