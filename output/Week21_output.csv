@@ -1,4 +1,4 @@
-,first_name,last_name,email,Product,Price,Destination,Date,New Trolley Inventory?,Avg Price per Product,Variance,Rank
+,first_name,last_name,email,Product,Price,Destination,Date,New Trolley Inventory?,Avg Price per Product,Variance,Variance Rank by Destination
 0,Kizzie,Bruggeman,kbruggemanq@thetimes.co.uk,Foil Wrap,0.91,New York,2021-01-09,False,42.611666666666665,41.70166666666667,1
 1,Leslie,Streight,lstreight22@ed.gov,Hot Choc Vending,1.08,Perth,2021-01-19,False,29.518,28.438000000000002,3
 2,Ingemar,Burgiss,iburgissbp@howstuffworks.com,Black Currants,2.91,Paris,2021-01-07,False,40.9025,37.99250000000001,1
