@@ -1,2 +1,9 @@
-,Airline,NPS,Z-Score
-7,Prep Air,21.0,1.106
+,Flight,Class,Avg.daily sales 7 days less than 7 days until the flight,Avg.daily sales 7 days or more until the flight,Sales less than 7 days until the flight,Sales 7 days or more until the flight
+0,London to Paris,Business,994,41746,1071,148804
+1,London to Paris,Economy,245,10287,239,33204
+2,London to Perth,Business,1568,65863,1598,222149
+3,London to Perth,Economy,746,31333,756,105126
+4,Paris to London,Business,1007,42309,1037,144181
+5,Paris to London,Economy,250,10515,245,34087
+6,Perth to London,Business,1816,76261,1691,235035
+7,Perth to London,Economy,738,31008,765,106322
