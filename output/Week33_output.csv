@@ -1,0 +1,35 @@
+,Orders,Sale Date,Reporting Date,Order Status
+0,A,2020-12-29,2021-01-01,New Order
+1,B,2020-12-31,2021-01-01,New Order
+2,B,2020-12-31,2021-01-08,Unfulfilled Order
+3,B,2020-12-31,2021-01-15,Unfulfilled Order
+4,B,2020-12-31,2021-01-22,Unfulfilled Order
+5,B,2020-12-31,2021-01-29,Unfulfilled Order
+6,B,2020-12-31,2021-02-05,Fulfilled
+7,C,2021-01-01,2021-01-01,New Order
+8,C,2021-01-01,2021-01-08,Unfulfilled Order
+9,C,2021-01-01,2021-01-15,Fulfilled
+10,D,2021-01-04,2021-01-08,New Order
+11,D,2021-01-04,2021-01-15,Unfulfilled Order
+12,D,2021-01-04,2021-01-22,Unfulfilled Order
+13,D,2021-01-04,2021-01-29,Fulfilled
+14,E,2021-01-07,2021-01-08,New Order
+15,F,2021-01-08,2021-01-08,New Order
+16,F,2021-01-08,2021-01-15,Unfulfilled Order
+17,F,2021-01-08,2021-01-22,Fulfilled
+18,G,2021-01-12,2021-01-15,New Order
+19,G,2021-01-12,2021-01-22,Unfulfilled Order
+20,G,2021-01-12,2021-01-29,Fulfilled
+21,H,2021-01-14,2021-01-15,New Order
+22,I,2021-01-15,2021-01-15,New Order
+23,J,2021-01-15,2021-01-15,New Order
+24,J,2021-01-15,2021-01-22,Unfulfilled Order
+25,J,2021-01-15,2021-01-29,Fulfilled
+26,K,2021-01-19,2021-01-22,New Order
+27,K,2021-01-19,2021-01-29,Unfulfilled Order
+28,K,2021-01-19,2021-02-05,Fulfilled
+29,L,2021-01-20,2021-01-22,New Order
+30,L,2021-01-20,2021-01-29,Unfulfilled Order
+31,L,2021-01-20,2021-02-05,Fulfilled
+32,M,2021-01-23,2021-01-29,New Order
+33,N,2021-01-28,2021-01-29,New Order
