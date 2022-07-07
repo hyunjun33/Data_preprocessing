@@ -8,5 +8,5 @@
 - Python을 활용해서 전처리 코드를 구현
 - 다양한 형태의 raw data를 문제 해결에 적합한 형태로 변환하는 연습
 
-### Tableau Prep Preppin'Data 웹사이트
+## Tableau Prep Preppin'Data 웹사이트
 https://preppindata.blogspot.com/
